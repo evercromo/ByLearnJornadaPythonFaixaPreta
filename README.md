@@ -1,2 +1,3 @@
 # ByLearnJornadaPythonFaixaPreta1
-Lista de Compras
+
+Projetos feitos na Jornada Faixa Preta - ByLearn
